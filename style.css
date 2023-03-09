@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body{background: #FFB6C1;}
+*{
+  margin:20px;
+}
+
+
+h1 {
+  background-color: black;
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+  margin-bottom:0px;
+  font-style: italic;
+  font-family: 'Lobster', cursive;
+}
+
+h3{
+  color: black;
+  margin-left: 20px;
+  font-style: normal;
+  font-family: 'Courier', cursive;
+}
+
+/*p font-style*/
+p{font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  border-style: dashed;}
+
+
+
